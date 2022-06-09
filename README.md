@@ -10,7 +10,7 @@ _Tested on platforms_:  Universal Windows Platform (UWP)
 
 This prototype has been developed as part of [Next level Sports](https://hci.w-hs.de/research/projects/nextlevelsports/) project. The goal of this prototype is to develop  a shared location-independent walk in Augmented Reality (AR) using Microsoft HoloLens 2 Mixed-Reality glasses. The aim is to make it possible to walk with other people despite distance or health restrictions and to motivate the users to exercise more. The project is intended to promote creativity and movement at the same time. Especially due to the pandemic and related circumstances such as home office, many people do not move enough, but they can integrate the project into their daily work routine instead of video conferences with colleagues at their desks. 
 
-# Gameplay
+## Features
 
 The users can walk and talk with their partner despite the physical distance. Following are some of the features implemented:
 
